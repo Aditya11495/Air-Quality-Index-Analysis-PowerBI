@@ -22,8 +22,6 @@ The raw dataset was cleaned using Python and Pandas to remove missing values and
 * Power BI
 * GitHub
 
----
-
 ## Project Workflow
 
 1. Data Collection
@@ -31,8 +29,6 @@ The raw dataset was cleaned using Python and Pandas to remove missing values and
 3. Data Preparation
 4. Dashboard Development using Power BI
 5. Data Visualization and Insights
-
----
 
 ## Dashboard Features
 
@@ -44,31 +40,15 @@ The Power BI dashboard includes:
 * Interactive filters for exploring data
 * Visual insights into pollution distribution
 
----
-
 ## Key Insights
 
 * Pollution levels vary significantly across different cities.
 * PM2.5 levels are consistently higher than recommended air quality standards.
 * Certain periods show higher pollution spikes, indicating seasonal or environmental influences.
 
----
-
-## Dashboard Preview
-
-(Add dashboard screenshot here)
-
----
-
 ## Future Improvements
 
 * Add machine learning models to predict AQI levels
 * Integrate real-time air quality data
-* Perform advanced statistical analysis on pollution trends
+* Perform advanced statistical analysis on pollution trends.
 
----
-
-## Author
-
-Aditya Singh
-Aspiring Data Scientist | Data Analytics Enthusiast
