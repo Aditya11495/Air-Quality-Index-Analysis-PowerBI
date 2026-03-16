@@ -1,5 +1,3 @@
-# Air Quality Index (AQI) Analysis Dashboard
-
 # Project Overview
 
 This project analyzes Air Quality Index (AQI) data to understand pollution patterns and visualize environmental indicators using an interactive Power BI dashboard.
