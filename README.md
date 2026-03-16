@@ -4,7 +4,7 @@ This project analyzes Air Quality Index (AQI) data to understand pollution patte
 
 The goal of this project is to transform raw air pollution data into meaningful insights through data cleaning, analysis, and visualization.
 
-# Dataset
+# Dataset.
 
 The dataset contains air pollution measurements including:
 
