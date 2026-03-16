@@ -15,9 +15,7 @@ The dataset contains air pollution measurements including:
 
 The raw dataset was cleaned using Python and Pandas to remove missing values and prepare the data for visualization.
 
----
-
-## Tools & Technologies
+# Tools & Technologies
 
 * Python
 * Pandas
